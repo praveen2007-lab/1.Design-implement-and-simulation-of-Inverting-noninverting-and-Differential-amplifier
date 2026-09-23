@@ -74,35 +74,58 @@ Choose R1 = 1kΩ, Rf=10kΩ
  
 **PIN DIAGRAM:**
 
+<img width="800" height="490" alt="WhatsApp Image 2026-09-23 at 12 51 41 PM" src="https://github.com/user-attachments/assets/1ff59023-888c-40cf-a9d6-23f2c7ce5c22" />
+
 **INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+  
+<img width="800" height="454" alt="WhatsApp Image 2026-09-23 at 12 48 58 PM" src="https://github.com/user-attachments/assets/cd331770-1a4f-41b0-b20d-ba0bad18a6b1" />
 
 
   **MODEL GRAPH:**
+  
+<img width="713" height="467" alt="WhatsApp Image 2026-09-23 at 12 59 13 PM" src="https://github.com/user-attachments/assets/e50f157c-82ee-4a16-8246-99bcab577559" />
 
 
-  **TABULATION:**
+  **TABULATION AND CALCULATION:**
  
-
-**MODEL CALCULATION:**
+<img width="800" height="564" alt="WhatsApp Image 2026-09-23 at 12 53 31 PM" src="https://github.com/user-attachments/assets/297c0d39-5fc1-4736-883a-7af946e589fb" />
 
 **NON INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
 
+<img width="781" height="547" alt="WhatsApp Image 2026-09-23 at 12 59 40 PM" src="https://github.com/user-attachments/assets/92f1e960-4cff-4bf0-b14b-7b3b25e57eb8" />
 
   **MODEL GRAPH:**
+  
+<img width="800" height="465" alt="WhatsApp Image 2026-09-23 at 1 01 47 PM" src="https://github.com/user-attachments/assets/fbf93482-ea68-4279-aeee-ee4bbb2774f5" />
 
 
   **TABULATION:**
+  
+<img width="800" height="562" alt="WhatsApp Image 2026-09-23 at 12 59 56 PM" src="https://github.com/user-attachments/assets/50939f10-9b3a-4d43-8510-47f84194c766" />
 
   **DIFFERENTIAL AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+  
+<img width="652" height="488" alt="WhatsApp Image 2026-09-23 at 1 02 22 PM" src="https://github.com/user-attachments/assets/e01e096b-ae6b-46b2-865c-e8443f168014" />
 
 
   **MODEL GRAPH:**
+  
+<img width="799" height="576" alt="WhatsApp Image 2026-09-23 at 1 02 40 PM" src="https://github.com/user-attachments/assets/412db040-3ae9-45af-a27d-d9d1c00ebb27" />
 
 
   **TABULATION:**
+  
+<img width="695" height="800" alt="WhatsApp Image 2026-09-23 at 1 04 32 PM" src="https://github.com/user-attachments/assets/88dd0fd3-f500-445e-8876-f8b3b311a398" />
+
+**GRAPH:**
+
+<img width="1061" height="1490" alt="WhatsApp Image 2026-09-23 at 1 12 26 PM" src="https://github.com/user-attachments/assets/c0f5a551-de7b-410f-b3c4-212ff0e1f2da" />
+
+<img width="1129" height="1552" alt="WhatsApp Image 2026-09-23 at 1 13 05 PM" src="https://github.com/user-attachments/assets/639c26cb-964e-444e-aad0-1fe6e6ca9d0c" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -115,7 +138,16 @@ Choose R1 = 1kΩ, Rf=10kΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
+
+<img width="477" height="800" alt="WhatsApp Image 2026-09-23 at 1 08 13 PM" src="https://github.com/user-attachments/assets/a78e7eb7-7074-4ffc-a2f5-43c31327046c" />
+
+<img width="800" height="610" alt="WhatsApp Image 2026-09-23 at 1 10 13 PM" src="https://github.com/user-attachments/assets/e8be2bd5-55b7-4135-b940-fff428522d0e" />
+
+
+  **MARK SPLITUP:**
+
+  <img width="800" height="738" alt="WhatsApp Image 2026-09-23 at 1 09 25 PM" src="https://github.com/user-attachments/assets/e8422f01-e73e-4da3-acc8-f6d9b025f5fd" />
+
 
 **RESULT:**
 Thus the Inverting, Non-Inverting and Differential Amplifiers are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
