@@ -146,7 +146,8 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
   **MARK SPLITUP:**
 
-  <img width="800" height="738" alt="WhatsApp Image 2026-09-23 at 1 09 25 PM" src="https://github.com/user-attachments/assets/e8422f01-e73e-4da3-acc8-f6d9b025f5fd" />
+<img width="1600" height="1587" alt="WhatsApp Image 2026-09-23 at 1 16 48 PM" src="https://github.com/user-attachments/assets/277861e7-73c4-459e-a83b-6c06d3ba0b07" />
+
 
 
 **RESULT:**
